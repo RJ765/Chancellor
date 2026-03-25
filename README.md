@@ -1,3 +1,3 @@
 HTML File
-UK Chancellor Simulator
+Chancellor of the Exchequer Simulator
 For Economics 
